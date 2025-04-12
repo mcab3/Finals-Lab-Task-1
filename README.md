@@ -1,5 +1,5 @@
 # Finals Lab Task 1. MySQL Basics
-With this activity in this lesson it tackled the use of MySQL Workbench and using of one of its servers to write and execute by making different classifications to create specified tables and an entity relationship diagram/s.
+With this activity in this lesson it tackled the use of MySQL Workbench and using of one of its servers to write and execute by making different classifications to create specified tables and an entity relationship diagram/s where it was focused on a multi-level company details.
 
 Given tasks from our Instructor:
 
