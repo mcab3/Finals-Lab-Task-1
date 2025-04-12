@@ -1,2 +1,3 @@
-# Finals-Lab-Task-1.-MySQL-Basics
-Multi-Level Company Database
+## Finals Lab Task 1. MySQL Basics
+Multi-Level Company 
+
