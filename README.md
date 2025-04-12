@@ -1,5 +1,30 @@
-# Finals Lab Task 1. Multi Level Company
-MySQL Basics
+# Finals Lab Task 1. MySQL Basics
+With this activity in this lesson it tackled the use of MySQL Workbench and using of one of its servers to write and execute by making different classifications to create specified tables and an entity relationship diagram/s.
+
+Given tasks from our Instructor:
+
+Task 1: Create the employees table
+- Define employee_id as a unique integer, auto-increment, and primary key.
+- Define employee_name as a VARCHAR (up to 255 characters), and make it not null.
+- Define manager_id as an integer, which will be a foreign key referencing employee_id from the same table.
+
+Task 2: Create the departments table
+- Define department_id as a unique integer, auto-increment, and primary key.
+- Define department_name as a VARCHAR (up to 255 characters), and make it not null.
+
+Task 3: Create the employee_departments table__
+- Define employee_id as an integer, which will be a foreign key referencing employee_id in the employees table.
+- Define department_id as an integer, which will be a foreign key referencing department_id in the departments table.
+  Set a composite primary key on the combination of employee_id and department_id.
+
+Task 4: Create the employee_projects table__
+- Define employee_id as an integer, which will be a foreign key referencing employee_id in the employees table.
+- Define project_name as a VARCHAR (up to 255 characters), and make it not null.
+
+Task 5: Create the managers table__
+- Define manager_id as a unique integer, auto-increment, and primary key.
+- Define employee_id as an integer, which will be a foreign key referencing employee_id in the employees table.
+
 ## Query Statements
 **Task 1** : Create a table named employees with following fields:
 
