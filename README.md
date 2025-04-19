@@ -71,3 +71,4 @@ Task 5: Create the managers table
 ## Entity-Relational Diagram
 - Attached image of the diagram below
 ![](Images/labtask1_EERD.png)
+  
